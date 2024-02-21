@@ -4,7 +4,11 @@ rpi-lcd
 ===========================================================================
 ⚠️⚠️please pake sure not to cantact him if there are any bugs or errors that i may cause.⚠️⚠️
 
+in this fork i will attempt to make it dynamic by adding the bility to add an address for the LCD
+and add diffrint size LCD
 
+original readme 
+=======
 
 This library supports LCD text displays (20x4, 16x2 and other) via I²C converter.
 
