@@ -2,6 +2,9 @@ rpi-lcd
 =======
 ⚠️ this is a fork from [badgal/rpi-lcd](https://github.com/bogdal/rpi-lcd)
 ===========================================================================
+please pake sure nit to cantact him if there are any bugs or errors that i may cause.
+
+
 
 This library supports LCD text displays (20x4, 16x2 and other) via I²C converter.
 
