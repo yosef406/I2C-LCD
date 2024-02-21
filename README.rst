@@ -2,7 +2,7 @@ rpi-lcd
 =======
 ⚠️ this is a fork from [badgal/rpi-lcd](https://github.com/bogdal/rpi-lcd)
 ===========================================================================
-⚠️⚠️please pake sure nit to cantact him if there are any bugs or errors that i may cause.⚠️⚠️
+⚠️⚠️please pake sure not to cantact him if there are any bugs or errors that i may cause.⚠️⚠️
 
 
 
